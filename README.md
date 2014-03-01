@@ -10,6 +10,10 @@ ghh use ```EDITOR``` environment variable for creating/editing hook.
 go install github.com/soh335/ghh
 ```
 
+# demo
+
+![](http://gifzo.net/RTH66HHvoP.gif)
+
 # usage
 
 ## set token
