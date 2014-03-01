@@ -1,5 +1,7 @@
 # ghh
 
+[![Build Status](https://travis-ci.org/soh335/ghh.png?branch=master)](https://travis-ci.org/soh335/ghh)
+
 ghh is cui tool for [github repository hook](http://developer.github.com/v3/repos/hooks/).
 
 ghh use ```EDITOR``` environment variable for creating/editing hook.
