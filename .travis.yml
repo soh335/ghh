@@ -5,8 +5,5 @@ go:
   - 1.2
   - tip
 
-before_script:
-  - go get github.com/gonuts/commander
-  - go get github.com/google/go-github/github
 script:
   - go test -v
