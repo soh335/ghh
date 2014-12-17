@@ -1,6 +1,6 @@
 # ghh
 
-[![Build Status](https://travis-ci.org/soh335/ghh.png?branch=master)](https://travis-ci.org/soh335/ghh)
+[![wercker status](https://app.wercker.com/status/78fc26f3eef3d7024e5ea58f6f85bee8/s/master "wercker status")](https://app.wercker.com/project/bykey/78fc26f3eef3d7024e5ea58f6f85bee8)
 
 ghh is cui tool for [github repository hook](http://developer.github.com/v3/repos/hooks/).
 
